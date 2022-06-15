@@ -1,0 +1,232 @@
+body {
+    width: 100%;
+    height: 100%;
+    margin: auto;
+}
+.topo {
+    margin: 0 auto;
+    background-color: black;
+    width: 100%;
+    height: 30px;
+}
+#topo {
+    margin-bottom: 1%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 30%;
+}
+.verde {
+    color: green;
+    font-size: 22px;
+}
+.branco {
+    color: white;
+}
+.menu1 {
+    width: 100%;
+    height: 120px;
+}
+.lado {
+    margin-left: 1%;
+}
+.lado2 {
+    margin-left: 5%;
+    margin-top: 10px;
+    position: absolute;
+}
+.lado3 {
+    margin-left: 3%;
+    margin-top: 4%;
+}
+.lado4 {
+    margin-left: 10%;
+    margin-top: 1%;
+    position: absolute;
+}
+.lado5 {
+    margin-left: 45%;
+    margin-bottom: 1%;
+}
+.lado6 {
+    position: absolute;
+    margin-left: 10%;
+    margin-top: 1%;
+}
+.lado7 {
+    margin-left: 4%;
+}
+.lado8 {
+    margin-left: 12%;
+}
+.lado9 {
+    margin-left: 6%;
+}
+.texto {
+    color: black;
+    position: absolute;
+    margin-top: 2%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.texto2 {
+    color: black;
+    position: absolute;
+    margin-top: 2%;
+    margin-left: 15%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#whatsaap {
+    position: absolute;
+    background-color: rgb(29, 196, 29);
+    width: 100%;
+    height: 70px;
+}
+.whatsaap {
+    margin-top: 3px;
+    margin-left: 8%;
+}
+#tam {
+    position: absolute;
+    font-size: 40px;
+    margin-left: 5%;
+    margin-top: 1%;
+}
+#cinza {
+    position: relative;
+    background-color: #606060;
+    width: 100%;
+    height: 100%;
+    margin-top: 14%;
+}
+.font {
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    margin-top: 5px;
+}
+.font2 {
+    font-size: 40px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    margin-top: 5px;
+}
+#centro {
+    align-items: center;
+    margin-left: 12px;
+    margin-top: 30px;
+}
+#pop {
+    margin-top: 3%;
+    width: 100%;
+    height: 100%;
+}
+.tamanho {
+    font-size: 36px;
+}
+.borda {
+    border-top: 1px solid black;
+    border-left: none;
+    border-radius: none;
+    border-bottom: 1px solid black;
+}
+.topo2 {
+    margin-top: 8%;
+}
+.v {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.borda-cinza {
+    border: 20px solid #f7f7f7;
+    border-radius: 15px;
+}
+.borda-cinza2 {
+    border-top: 57px solid #f7f7f7;
+    border-right: 15px solid #f7f7f7;
+    border-left: 15px solid #f7f7f7;
+    border-bottom: 57px solid #f7f7f7;
+    border-radius: 15px;
+}
+.borda-branca {
+    border: 20px solid white;
+    border-radius: 15px;
+}
+.ladoalado {
+    display: flex;
+    float: left;
+}
+.margin {
+    margin-left: 5%;
+}
+.title {
+    margin-left: 9%;
+}
+.title2 {
+    margin-left: 16%;
+}
+.title3 {
+    margin-left: 14%;
+}
+.title4 {
+    margin-left: 15%;
+}
+.title5 {
+    margin-left: 5%;
+}
+.title6 {
+    margin-left: 7%;
+}
+.tamanho2 {
+    position: relative;
+    margin-bottom: 20px;
+    font-size: 28px;
+}
+.cupons {
+    margin-top: 5%;
+    width: 1310px;
+    height: 200px;
+}
+#fundo {
+    height: 100px;
+    width: 100%;
+    background-color: #606060;
+}
+.topo3 {
+    margin-top: 2%;
+}
+.escuro {
+    margin-left: 5%;
+    width: 90%;
+    height: 390px;
+    background-color: rgb(6, 54, 6);
+}
+#tamanho {
+    margin-top: 10px;
+    width: 300px;
+    height: 330px;
+}
+#lado {
+    margin-top: 10px;
+    position: absolute;
+    margin-left: 7%;
+}
+#lado2 {
+    margin-top: 180px;
+    position: absolute;
+    width: 300px;
+    height: 150px;
+    margin-left: 15%;
+}
+#tamanho2 {
+    margin-left: 5%;
+    width: 90%;
+}
+#preto {
+    background-color: black;
+    margin-left: 5%;
+    width: 90%;
+    height: 40px;
+    color: white;
+    font-size: 36px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.lado10 {
+    margin-left: 35%;
+}
